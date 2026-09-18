@@ -1,6 +1,8 @@
-Open Engineering Tour
+# Open Engineering Tour
 
 Open Engineering Tour is the implementation repository of the tour definitions from Open Engineering Tours.
+
+![Open Engineering Tour hero-banner.png](../assets/hero-banner.png)
 
 A Tour turns an Open Engineering Architecture scene into an interactive visual journey.
 
